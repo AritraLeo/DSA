@@ -1,2 +1,2 @@
 # DSA
-DSA on C, C++, Java, Python....
+DSA on C
